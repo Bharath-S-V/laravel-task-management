@@ -1,0 +1,16 @@
+git clone this repo
+Composer install and update
+database setup on .env
+run migration
+run php artisan serve
+
+routes are
+/
+/login
+/admin/dashboard
+/admin/user
+/admin/user/{id}/edit 
+/admin/task
+/admin/notifications
+/user/dashboard
+/user/task
