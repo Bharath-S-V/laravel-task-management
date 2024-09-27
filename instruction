@@ -2,6 +2,7 @@ git clone this repo
 Composer install and update
 database setup on .env
 run migration
+run seeder
 run php artisan serve
 
 routes are
